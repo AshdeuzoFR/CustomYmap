@@ -1,5 +1,4 @@
 # CustomYmap
-For Redemption Server
 
 Inclus :
 
